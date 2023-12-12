@@ -74,3 +74,6 @@
 	- Outlet - Panel
 	  Outlet - Basement TV
 	  Outlet - Treadmill
+-
+- #House #Electrical
+-

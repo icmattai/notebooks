@@ -1,0 +1,11 @@
+- Network Cable Instructions
+- 1. Orange-White
+- 2. Orange
+- 3. Green-White
+- 4. Blue
+- 5. Blue-White
+- 6. Green
+- 7. Brown-White
+- 8. Brown
+-
+- #Network #Electrical

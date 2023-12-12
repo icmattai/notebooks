@@ -1,0 +1,2 @@
+- [https://portal.bsh-partner.com/TCcustomBSH/controller/download_file?PDFOBID=rdwnLkgcdcso0pdmdb---TcY&UMOBID=rdwnLmecdcso0pdmdb---TcY](https://portal.bsh-partner.com/TCcustomBSH/controller/download_file?PDFOBID=rdwnLkgcdcso0pdmdb---TcY&UMOBID=rdwnLmecdcso0pdmdb---TcY)
+- #House #Appliances
