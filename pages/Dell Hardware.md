@@ -1,0 +1,5 @@
+- Dell Optiplex 7060 - pve-01
+- Dell Optiplex 7060 - pve-02
+-
+- [[homelab]]
+- [[proxmox]]
