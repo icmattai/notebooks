@@ -1,3 +1,4 @@
 - [[House]]
 - [[Electrical]]
+- [[homelab]]
 -
