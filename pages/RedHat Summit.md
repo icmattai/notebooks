@@ -1,0 +1,1 @@
+- https://redhat-cop.github.io/automation-good-practices/
