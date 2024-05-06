@@ -1,1 +1,2 @@
 - https://redhat-cop.github.io/automation-good-practices/
+- forums.ansible.com
