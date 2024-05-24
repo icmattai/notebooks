@@ -1,2 +1,12 @@
 - Claim Number:
 	- **35655978**
+- Adjuster
+-
+- At Fault Accident
+	- I Have accident Forgiveness - Should not impact rates
+- Rental Car
+	- Enterprise Rental
+	- Will get an e-mail to pick up car
+-
+- 866-692-8482 x42146
+- Fatima Canales
