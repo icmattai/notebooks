@@ -10,3 +10,4 @@
 - The House That Horror Built
   station 11
   Moon of the crusted snow
+  haunted - James Herbert
