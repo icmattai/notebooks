@@ -6,8 +6,7 @@
 - The Conspiracy Tourist
   we spread
   wasps in the ice cream
-  Trejo
 - The House That Horror Built
-  station 11
   Moon of the crusted snow
   haunted - James Herbert
+- I found puppets living in my apartment walls
