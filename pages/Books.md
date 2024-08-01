@@ -9,4 +9,4 @@
 - The House That Horror Built
   Moon of the crusted snow
   haunted - James Herbert
-- I found puppets living in my apartment walls
+- I found puppets living in my apartment walls - I found Series
